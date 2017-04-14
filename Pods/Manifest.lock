@@ -1,0 +1,21 @@
+PODS:
+  - BusyNavigationBar (2.0.0)
+  - GuillotineMenu (3.0)
+  - RevealingSplashView (0.1.0)
+  - XCDYouTubeKit (2.5.5)
+
+DEPENDENCIES:
+  - BusyNavigationBar
+  - GuillotineMenu (~> 3.0)
+  - RevealingSplashView
+  - XCDYouTubeKit (~> 2.5)
+
+SPEC CHECKSUMS:
+  BusyNavigationBar: b73fd434b95f6198809dcf048b0245ad89ec1b37
+  GuillotineMenu: 611ccb58ae092f2d929535377570ef25a7b5bc63
+  RevealingSplashView: 501dd03d975ba2c4165dd463ea1c7c407fb9d13e
+  XCDYouTubeKit: 86f4e7a9c2baa7b7adf6abfc28ac3ab34927be2d
+
+PODFILE CHECKSUM: 005e14570bede7ec8ad0b35de33e8463f005c72b
+
+COCOAPODS: 1.2.0
