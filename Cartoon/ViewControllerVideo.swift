@@ -103,6 +103,7 @@ extension ViewControllerVideo: UICollectionViewDataSource, UICollectionViewDeleg
                 if (error == nil) {
                     print("get user picture no error")
                     cell.ImageCover.image = UIImage(data: imageData!)
+                    cell.ImageCover.layer.cornerRadius = 20
                     
                     
                 }

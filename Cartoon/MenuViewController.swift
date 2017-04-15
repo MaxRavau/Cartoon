@@ -160,9 +160,9 @@ class MenuViewController: UIViewController, GuillotineMenu, MFMailComposeViewCon
         
         mailComposerVC.setToRecipients(["Max.ravau@gmail.com"])
         
-        mailComposerVC.setSubject("Cartoon")
+        mailComposerVC.setSubject("DAnimee")
         
-        mailComposerVC.setMessageBody("Partagez nous les problèmes que vous rencontrez sur Cartoon",isHTML: false)
+        mailComposerVC.setMessageBody("Partagez nous les problèmes que vous rencontrez sur DAnimee",isHTML: false)
         
         return mailComposerVC
     }

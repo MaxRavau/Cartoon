@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "50F33E091E856200008E2555"
-               BuildableName = "Cartoon.app"
-               BlueprintName = "Cartoon"
-               ReferencedContainer = "container:Cartoon.xcodeproj">
+               BuildableName = "DAnimee.app"
+               BlueprintName = "DAnimee"
+               ReferencedContainer = "container:DAnimee.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "50F33E1D1E856200008E2555"
-               BuildableName = "CartoonTests.xctest"
-               BlueprintName = "CartoonTests"
-               ReferencedContainer = "container:Cartoon.xcodeproj">
+               BuildableName = "DAnimeeTests.xctest"
+               BlueprintName = "DAnimeeTests"
+               ReferencedContainer = "container:DAnimee.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "50F33E281E856200008E2555"
-               BuildableName = "CartoonUITests.xctest"
-               BlueprintName = "CartoonUITests"
-               ReferencedContainer = "container:Cartoon.xcodeproj">
+               BuildableName = "DAnimeeUITests.xctest"
+               BlueprintName = "DAnimeeUITests"
+               ReferencedContainer = "container:DAnimee.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "50F33E091E856200008E2555"
-            BuildableName = "Cartoon.app"
-            BlueprintName = "Cartoon"
-            ReferencedContainer = "container:Cartoon.xcodeproj">
+            BuildableName = "DAnimee.app"
+            BlueprintName = "DAnimee"
+            ReferencedContainer = "container:DAnimee.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "50F33E091E856200008E2555"
-            BuildableName = "Cartoon.app"
-            BlueprintName = "Cartoon"
-            ReferencedContainer = "container:Cartoon.xcodeproj">
+            BuildableName = "DAnimee.app"
+            BlueprintName = "DAnimee"
+            ReferencedContainer = "container:DAnimee.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "50F33E091E856200008E2555"
-            BuildableName = "Cartoon.app"
-            BlueprintName = "Cartoon"
-            ReferencedContainer = "container:Cartoon.xcodeproj">
+            BuildableName = "DAnimee.app"
+            BlueprintName = "DAnimee"
+            ReferencedContainer = "container:DAnimee.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

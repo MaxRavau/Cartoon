@@ -141,6 +141,7 @@ extension ViewControllerHome: UICollectionViewDataSource, UICollectionViewDelega
                 if (error == nil) {
                     print("get user picture no error")
                     cell.imageCover.image = UIImage(data: imageData!)
+                    cell.imageCover.layer.cornerRadius = 20
                     
                     
                 }
