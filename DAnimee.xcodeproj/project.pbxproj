@@ -16,6 +16,7 @@
 		5020F78E1E86CCE600F8BFF5 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5020F78D1E86CCE600F8BFF5 /* Security.framework */; };
 		5020F7901E86CD2300F8BFF5 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5020F78F1E86CD2200F8BFF5 /* AudioToolbox.framework */; };
 		5020F7921E86CD2F00F8BFF5 /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5020F7911E86CD2F00F8BFF5 /* CFNetwork.framework */; };
+		502301951EA296A6001DBD1C /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 50F33E191E856200008E2555 /* Info.plist */; };
 		50647E921E9264CF00EAD2DD /* UserNotifications.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 50647E911E9264CF00EAD2DD /* UserNotifications.framework */; };
 		5094C9521E892C9D003F5DF8 /* ViewControllerVideo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5094C9511E892C9D003F5DF8 /* ViewControllerVideo.swift */; };
 		5094C9541E892CAE003F5DF8 /* CollectionViewCellVideo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5094C9531E892CAE003F5DF8 /* CollectionViewCellVideo.swift */; };
@@ -365,6 +366,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				502301951EA296A6001DBD1C /* Info.plist in Resources */,
 				50F33E181E856200008E2555 /* LaunchScreen.storyboard in Resources */,
 				50F33E151E856200008E2555 /* Assets.xcassets in Resources */,
 				50F33E131E856200008E2555 /* Main.storyboard in Resources */,
